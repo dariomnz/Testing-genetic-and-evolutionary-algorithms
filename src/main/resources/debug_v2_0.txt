@@ -1,0 +1,376 @@
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 43 185 138 11341 15910
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 43 185 138 11341 15910
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 43 185 138 11341 15910
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal -4 146 13 6267 8650
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal -4 146 13 6267 8650
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal -4 146 13 6267 8650
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal -4 146 13 6267 8650
+test0.json padre evaluacion 1000.0;data;-4 ;146 ;13 ;6267 ;8650;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;1000,00000;1000,00000;1000,00000;1000,00000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 43 185 138 11341 15910
+test0.json hijo evaluacion 222.36;data;43 ;185 ;138 ;11341 ;15910;var;67,00000; 90,00000; 10,00000; 3401,00000; 3578,00000; ;eval;222,36000;1000,00000;1000,00000;1000,00000;
+test1.json padre evaluacion 1000.0;data;-4 ;146 ;13 ;6267 ;8650;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;1000,00000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 255.44;data;43 ;185 ;138 ;11341 ;15910;var;67,00000; 90,00000; 10,00000; 3401,00000; 3578,00000; ;eval;222,36000;255,44000;1000,00000;1000,00000;
+test2.json padre evaluacion 1000.0;data;-4 ;146 ;13 ;6267 ;8650;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;1000,00000;1000,00000;1000,00000;1000,00000;
+test2.json hijo evaluacion 262.18;data;43 ;185 ;138 ;11341 ;15910;var;67,00000; 90,00000; 10,00000; 3401,00000; 3578,00000; ;eval;222,36000;255,44000;262,18000;1000,00000;
+test3.json padre evaluacion 1000.0;data;-4 ;146 ;13 ;6267 ;8650;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;1000,00000;1000,00000;1000,00000;1000,00000;
+test3.json hijo evaluacion 1000.0;data;43 ;185 ;138 ;11341 ;15910;var;67,00000; 90,00000; 10,00000; 3401,00000; 3578,00000; ;eval;222,36000;255,44000;262,18000;1000,00000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 54 51 116 7845 6968
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 54 51 116 7845 6968
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 54 51 116 7845 6968
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 54 51 116 7845 6968
+test0.json hijo evaluacion 190.92;data;54 ;51 ;116 ;7845 ;6968;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;190,92000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 205.19;data;54 ;51 ;116 ;7845 ;6968;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;190,92000;205,19000;1000,00000;1000,00000;
+test2.json hijo evaluacion 213.46;data;54 ;51 ;116 ;7845 ;6968;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;190,92000;205,19000;213,46000;1000,00000;
+test3.json hijo evaluacion 386.16;data;54 ;51 ;116 ;7845 ;6968;var;53,00000; 94,00000; 38,00000; 6896,00000; 1035,00000; ;eval;190,92000;205,19000;213,46000;386,16000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 60 9 134 2112 7150
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 60 9 134 2112 7150
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 60 9 134 2112 7150
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 60 9 134 2112 7150
+test0.json hijo evaluacion 532.12;data;60 ;9 ;134 ;2112 ;7150;var;43,46000; 77,08000; 31,16000; 5654,72000; 848,70000; ;eval;532,12000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 453.01;data;60 ;9 ;134 ;2112 ;7150;var;43,46000; 77,08000; 31,16000; 5654,72000; 848,70000; ;eval;532,12000;453,01000;1000,00000;1000,00000;
+test2.json hijo evaluacion 590.13;data;60 ;9 ;134 ;2112 ;7150;var;43,46000; 77,08000; 31,16000; 5654,72000; 848,70000; ;eval;532,12000;453,01000;590,13000;1000,00000;
+test3.json hijo evaluacion 1000.0;data;60 ;9 ;134 ;2112 ;7150;var;43,46000; 77,08000; 31,16000; 5654,72000; 848,70000; ;eval;532,12000;453,01000;590,13000;1000,00000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 67 116 2547 6893
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 67 116 2547 6893
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 67 116 2547 6893
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 67 116 2547 6893
+test0.json hijo evaluacion 165.11;data;71 ;67 ;116 ;2547 ;6893;var;35,63720; 63,20560; 25,55120; 4636,87040; 695,93400; ;eval;165,11000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 196.06;data;71 ;67 ;116 ;2547 ;6893;var;35,63720; 63,20560; 25,55120; 4636,87040; 695,93400; ;eval;165,11000;196,06000;1000,00000;1000,00000;
+test2.json hijo evaluacion 173.93;data;71 ;67 ;116 ;2547 ;6893;var;35,63720; 63,20560; 25,55120; 4636,87040; 695,93400; ;eval;165,11000;196,06000;173,93000;1000,00000;
+test3.json hijo evaluacion 351.95;data;71 ;67 ;116 ;2547 ;6893;var;35,63720; 63,20560; 25,55120; 4636,87040; 695,93400; ;eval;165,11000;196,06000;173,93000;351,95000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 72 114 105 2955 6289
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 72 114 105 2955 6289
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 72 114 105 2955 6289
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 72 114 105 2955 6289
+test0.json hijo evaluacion 239.13;data;72 ;114 ;105 ;2955 ;6289;var;29,22250; 51,82859; 20,95198; 3802,23373; 570,66588; ;eval;239,13000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 176.11;data;72 ;114 ;105 ;2955 ;6289;var;29,22250; 51,82859; 20,95198; 3802,23373; 570,66588; ;eval;239,13000;176,11000;1000,00000;1000,00000;
+test2.json hijo evaluacion 176.99;data;72 ;114 ;105 ;2955 ;6289;var;29,22250; 51,82859; 20,95198; 3802,23373; 570,66588; ;eval;239,13000;176,11000;176,99000;1000,00000;
+test3.json hijo evaluacion 355.62;data;72 ;114 ;105 ;2955 ;6289;var;29,22250; 51,82859; 20,95198; 3802,23373; 570,66588; ;eval;239,13000;176,11000;176,99000;355,62000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 86 61 123 2051 7530
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 86 61 123 2051 7530
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 86 61 123 2051 7530
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 86 61 123 2051 7530
+test0.json hijo evaluacion 168.15;data;86 ;61 ;123 ;2051 ;7530;var;23,96245; 42,49945; 17,18063; 3117,83166; 467,94602; ;eval;168,15000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 204.93;data;86 ;61 ;123 ;2051 ;7530;var;23,96245; 42,49945; 17,18063; 3117,83166; 467,94602; ;eval;168,15000;204,93000;1000,00000;1000,00000;
+test2.json hijo evaluacion 183.66;data;86 ;61 ;123 ;2051 ;7530;var;23,96245; 42,49945; 17,18063; 3117,83166; 467,94602; ;eval;168,15000;204,93000;183,66000;1000,00000;
+test3.json hijo evaluacion 354.7;data;86 ;61 ;123 ;2051 ;7530;var;23,96245; 42,49945; 17,18063; 3117,83166; 467,94602; ;eval;168,15000;204,93000;183,66000;354,70000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 83 181 105 2285 6412
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 83 181 105 2285 6412
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 83 181 105 2285 6412
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 83 181 105 2285 6412
+test0.json hijo evaluacion 375.01;data;83 ;181 ;105 ;2285 ;6412;var;19,64921; 34,84955; 14,08811; 2556,62196; 383,71574; ;eval;375,01000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 202.08;data;83 ;181 ;105 ;2285 ;6412;var;19,64921; 34,84955; 14,08811; 2556,62196; 383,71574; ;eval;375,01000;202,08000;1000,00000;1000,00000;
+test2.json hijo evaluacion 189.48;data;83 ;181 ;105 ;2285 ;6412;var;19,64921; 34,84955; 14,08811; 2556,62196; 383,71574; ;eval;375,01000;202,08000;189,48000;1000,00000;
+test3.json hijo evaluacion 360.56;data;83 ;181 ;105 ;2285 ;6412;var;19,64921; 34,84955; 14,08811; 2556,62196; 383,71574; ;eval;375,01000;202,08000;189,48000;360,56000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 34 107 118 891 6959
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 34 107 118 891 6959
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 34 107 118 891 6959
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 34 107 118 891 6959
+test0.json hijo evaluacion 262.55;data;34 ;107 ;118 ;891 ;6959;var;16,11235; 28,57663; 11,55225; 2096,43001; 314,64690; ;eval;262,55000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 196.46;data;34 ;107 ;118 ;891 ;6959;var;16,11235; 28,57663; 11,55225; 2096,43001; 314,64690; ;eval;262,55000;196,46000;1000,00000;1000,00000;
+test2.json hijo evaluacion 187.8;data;34 ;107 ;118 ;891 ;6959;var;16,11235; 28,57663; 11,55225; 2096,43001; 314,64690; ;eval;262,55000;196,46000;187,80000;1000,00000;
+test3.json hijo evaluacion 337.73;data;34 ;107 ;118 ;891 ;6959;var;16,11235; 28,57663; 11,55225; 2096,43001; 314,64690; ;eval;262,55000;196,46000;187,80000;337,73000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 91 134 15495 7263
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 91 134 15495 7263
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 91 134 15495 7263
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 71 91 134 15495 7263
+test0.json hijo evaluacion 162.18;data;71 ;91 ;134 ;15495 ;7263;var;13,21213; 23,43283; 9,47285; 1719,07261; 258,01046; ;eval;162,18000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 195.33;data;71 ;91 ;134 ;15495 ;7263;var;13,21213; 23,43283; 9,47285; 1719,07261; 258,01046; ;eval;162,18000;195,33000;1000,00000;1000,00000;
+test2.json hijo evaluacion 180.92;data;71 ;91 ;134 ;15495 ;7263;var;13,21213; 23,43283; 9,47285; 1719,07261; 258,01046; ;eval;162,18000;195,33000;180,92000;1000,00000;
+test3.json hijo evaluacion 403.77;data;71 ;91 ;134 ;15495 ;7263;var;13,21213; 23,43283; 9,47285; 1719,07261; 258,01046; ;eval;162,18000;195,33000;180,92000;403,77000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 88 61 114 2462 7110
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 88 61 114 2462 7110
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 88 61 114 2462 7110
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 88 61 114 2462 7110
+test0.json hijo evaluacion 162.55;data;88 ;61 ;114 ;2462 ;7110;var;10,83395; 19,21492; 7,76774; 1409,63954; 211,56858; ;eval;162,55000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 208.87;data;88 ;61 ;114 ;2462 ;7110;var;10,83395; 19,21492; 7,76774; 1409,63954; 211,56858; ;eval;162,55000;208,87000;1000,00000;1000,00000;
+test2.json hijo evaluacion 179.87;data;88 ;61 ;114 ;2462 ;7110;var;10,83395; 19,21492; 7,76774; 1409,63954; 211,56858; ;eval;162,55000;208,87000;179,87000;1000,00000;
+test3.json hijo evaluacion 367.0;data;88 ;61 ;114 ;2462 ;7110;var;10,83395; 19,21492; 7,76774; 1409,63954; 211,56858; ;eval;162,55000;208,87000;179,87000;367,00000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 62 72 118 4318 6884
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 62 72 118 4318 6884
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 62 72 118 4318 6884
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 62 72 118 4318 6884
+test0.json hijo evaluacion 174.01;data;62 ;72 ;118 ;4318 ;6884;var;8,88384; 15,75624; 6,36954; 1155,90442; 173,48623; ;eval;174,01000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 196.67;data;62 ;72 ;118 ;4318 ;6884;var;8,88384; 15,75624; 6,36954; 1155,90442; 173,48623; ;eval;174,01000;196,67000;1000,00000;1000,00000;
+test2.json hijo evaluacion 175.46;data;62 ;72 ;118 ;4318 ;6884;var;8,88384; 15,75624; 6,36954; 1155,90442; 173,48623; ;eval;174,01000;196,67000;175,46000;1000,00000;
+test3.json hijo evaluacion 345.39;data;62 ;72 ;118 ;4318 ;6884;var;8,88384; 15,75624; 6,36954; 1155,90442; 173,48623; ;eval;174,01000;196,67000;175,46000;345,39000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 1095 7042
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 1095 7042
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 1095 7042
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 1095 7042
+test0.json hijo evaluacion 153.18;data;74 ;79 ;113 ;1095 ;7042;var;7,28475; 12,92011; 5,22303; 947,84162; 142,25871; ;eval;153,18000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 192.98;data;74 ;79 ;113 ;1095 ;7042;var;7,28475; 12,92011; 5,22303; 947,84162; 142,25871; ;eval;153,18000;192,98000;1000,00000;1000,00000;
+test2.json hijo evaluacion 165.98;data;74 ;79 ;113 ;1095 ;7042;var;7,28475; 12,92011; 5,22303; 947,84162; 142,25871; ;eval;153,18000;192,98000;165,98000;1000,00000;
+test3.json hijo evaluacion 354.11;data;74 ;79 ;113 ;1095 ;7042;var;7,28475; 12,92011; 5,22303; 947,84162; 142,25871; ;eval;153,18000;192,98000;165,98000;354,11000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 69 90 113 1644 6877
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 69 90 113 1644 6877
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 69 90 113 1644 6877
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 69 90 113 1644 6877
+test0.json hijo evaluacion 254.11;data;69 ;90 ;113 ;1644 ;6877;var;5,97349; 10,59449; 4,28288; 777,23013; 116,65214; ;eval;254,11000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 178.91;data;69 ;90 ;113 ;1644 ;6877;var;5,97349; 10,59449; 4,28288; 777,23013; 116,65214; ;eval;254,11000;178,91000;1000,00000;1000,00000;
+test2.json hijo evaluacion 198.51;data;69 ;90 ;113 ;1644 ;6877;var;5,97349; 10,59449; 4,28288; 777,23013; 116,65214; ;eval;254,11000;178,91000;198,51000;1000,00000;
+test3.json hijo evaluacion 347.95;data;69 ;90 ;113 ;1644 ;6877;var;5,97349; 10,59449; 4,28288; 777,23013; 116,65214; ;eval;254,11000;178,91000;198,51000;347,95000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 79 94 113 157 7012
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 79 94 113 157 7012
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 79 94 113 157 7012
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 79 94 113 157 7012
+test0.json hijo evaluacion 239.96;data;79 ;94 ;113 ;157 ;7012;var;4,89826; 8,68749; 3,51196; 637,32871; 95,65476; ;eval;239,96000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 177.15;data;79 ;94 ;113 ;157 ;7012;var;4,89826; 8,68749; 3,51196; 637,32871; 95,65476; ;eval;239,96000;177,15000;1000,00000;1000,00000;
+test2.json hijo evaluacion 196.21;data;79 ;94 ;113 ;157 ;7012;var;4,89826; 8,68749; 3,51196; 637,32871; 95,65476; ;eval;239,96000;177,15000;196,21000;1000,00000;
+test3.json hijo evaluacion 348.22;data;79 ;94 ;113 ;157 ;7012;var;4,89826; 8,68749; 3,51196; 637,32871; 95,65476; ;eval;239,96000;177,15000;196,21000;348,22000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 726 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 726 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 726 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 113 726 7040
+test0.json hijo evaluacion 152.79;data;74 ;79 ;113 ;726 ;7040;var;4,01658; 7,12374; 2,87981; 522,60954; 78,43690; ;eval;152,79000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 193.07;data;74 ;79 ;113 ;726 ;7040;var;4,01658; 7,12374; 2,87981; 522,60954; 78,43690; ;eval;152,79000;193,07000;1000,00000;1000,00000;
+test2.json hijo evaluacion 165.88;data;74 ;79 ;113 ;726 ;7040;var;4,01658; 7,12374; 2,87981; 522,60954; 78,43690; ;eval;152,79000;193,07000;165,88000;1000,00000;
+test3.json hijo evaluacion 353.18;data;74 ;79 ;113 ;726 ;7040;var;4,01658; 7,12374; 2,87981; 522,60954; 78,43690; ;eval;152,79000;193,07000;165,88000;353,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 78 113 1339 7083
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 78 113 1339 7083
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 78 113 1339 7083
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 78 113 1339 7083
+test0.json hijo evaluacion 154.02;data;74 ;78 ;113 ;1339 ;7083;var;3,29359; 5,84147; 2,36144; 428,53982; 64,31826; ;eval;154,02000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 187.86;data;74 ;78 ;113 ;1339 ;7083;var;3,29359; 5,84147; 2,36144; 428,53982; 64,31826; ;eval;154,02000;187,86000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.52;data;74 ;78 ;113 ;1339 ;7083;var;3,29359; 5,84147; 2,36144; 428,53982; 64,31826; ;eval;154,02000;187,86000;166,52000;1000,00000;
+test3.json hijo evaluacion 354.15;data;74 ;78 ;113 ;1339 ;7083;var;3,29359; 5,84147; 2,36144; 428,53982; 64,31826; ;eval;154,02000;187,86000;166,52000;354,15000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 111 2084 7015
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 111 2084 7015
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 111 2084 7015
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 74 79 111 2084 7015
+test0.json hijo evaluacion 153.95;data;74 ;79 ;111 ;2084 ;7015;var;2,70075; 4,79000; 1,93638; 351,40266; 52,74097; ;eval;153,95000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 184.58;data;74 ;79 ;111 ;2084 ;7015;var;2,70075; 4,79000; 1,93638; 351,40266; 52,74097; ;eval;153,95000;184,58000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.59;data;74 ;79 ;111 ;2084 ;7015;var;2,70075; 4,79000; 1,93638; 351,40266; 52,74097; ;eval;153,95000;184,58000;166,59000;1000,00000;
+test3.json hijo evaluacion 356.59;data;74 ;79 ;111 ;2084 ;7015;var;2,70075; 4,79000; 1,93638; 351,40266; 52,74097; ;eval;153,95000;184,58000;166,59000;356,59000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 77 78 111 2310 6967
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 77 78 111 2310 6967
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 77 78 111 2310 6967
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 77 78 111 2310 6967
+test0.json hijo evaluacion 153.81;data;77 ;78 ;111 ;2310 ;6967;var;2,21461; 3,92780; 1,58783; 288,15018; 43,24760; ;eval;153,81000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.43;data;77 ;78 ;111 ;2310 ;6967;var;2,21461; 3,92780; 1,58783; 288,15018; 43,24760; ;eval;153,81000;185,43000;1000,00000;1000,00000;
+test2.json hijo evaluacion 167.0;data;77 ;78 ;111 ;2310 ;6967;var;2,21461; 3,92780; 1,58783; 288,15018; 43,24760; ;eval;153,81000;185,43000;167,00000;1000,00000;
+test3.json hijo evaluacion 355.64;data;77 ;78 ;111 ;2310 ;6967;var;2,21461; 3,92780; 1,58783; 288,15018; 43,24760; ;eval;153,81000;185,43000;167,00000;355,64000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2499 7041
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2499 7041
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2499 7041
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2499 7041
+test0.json hijo evaluacion 152.56;data;75 ;82 ;111 ;2499 ;7041;var;1,81598; 3,22080; 1,30202; 236,28315; 35,46303; ;eval;152,56000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 182.91;data;75 ;82 ;111 ;2499 ;7041;var;1,81598; 3,22080; 1,30202; 236,28315; 35,46303; ;eval;152,56000;182,91000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.35;data;75 ;82 ;111 ;2499 ;7041;var;1,81598; 3,22080; 1,30202; 236,28315; 35,46303; ;eval;152,56000;182,91000;166,35000;1000,00000;
+test3.json hijo evaluacion 354.33;data;75 ;82 ;111 ;2499 ;7041;var;1,81598; 3,22080; 1,30202; 236,28315; 35,46303; ;eval;152,56000;182,91000;166,35000;354,33000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2013 7030
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2013 7030
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2013 7030
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 82 111 2013 7030
+test0.json hijo evaluacion 151.87;data;75 ;82 ;111 ;2013 ;7030;var;1,48910; 2,64105; 1,06766; 193,75218; 29,07968; ;eval;151,87000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.51;data;75 ;82 ;111 ;2013 ;7030;var;1,48910; 2,64105; 1,06766; 193,75218; 29,07968; ;eval;151,87000;183,51000;1000,00000;1000,00000;
+test2.json hijo evaluacion 165.79;data;75 ;82 ;111 ;2013 ;7030;var;1,48910; 2,64105; 1,06766; 193,75218; 29,07968; ;eval;151,87000;183,51000;165,79000;1000,00000;
+test3.json hijo evaluacion 354.56;data;75 ;82 ;111 ;2013 ;7030;var;1,48910; 2,64105; 1,06766; 193,75218; 29,07968; ;eval;151,87000;183,51000;165,79000;354,56000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 87 111 1750 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 87 111 1750 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 87 111 1750 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 75 87 111 1750 7040
+test0.json hijo evaluacion 147.54;data;75 ;87 ;111 ;1750 ;7040;var;1,22107; 2,16566; 0,87548; 158,87679; 23,84534; ;eval;147,54000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 184.12;data;75 ;87 ;111 ;1750 ;7040;var;1,22107; 2,16566; 0,87548; 158,87679; 23,84534; ;eval;147,54000;184,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 201.91;data;75 ;87 ;111 ;1750 ;7040;var;1,22107; 2,16566; 0,87548; 158,87679; 23,84534; ;eval;147,54000;184,12000;201,91000;1000,00000;
+test3.json hijo evaluacion 353.53;data;75 ;87 ;111 ;1750 ;7040;var;1,22107; 2,16566; 0,87548; 158,87679; 23,84534; ;eval;147,54000;184,12000;201,91000;353,53000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7040
+test0.json hijo evaluacion 149.23;data;76 ;83 ;111 ;2026 ;7040;var;1,00127; 1,77584; 0,71789; 130,27897; 19,55318; ;eval;149,23000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2026 ;7040;var;1,00127; 1,77584; 0,71789; 130,27897; 19,55318; ;eval;149,23000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2026 ;7040;var;1,00127; 1,77584; 0,71789; 130,27897; 19,55318; ;eval;149,23000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.47;data;76 ;83 ;111 ;2026 ;7040;var;1,00127; 1,77584; 0,71789; 130,27897; 19,55318; ;eval;149,23000;183,12000;166,96000;354,47000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 81 111 2051 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 81 111 2051 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 81 111 2051 7040
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 81 111 2051 7040
+test0.json hijo evaluacion 152.06;data;76 ;81 ;111 ;2051 ;7040;var;0,82104; 1,45619; 0,58867; 106,82875; 16,03361; ;eval;152,06000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.14;data;76 ;81 ;111 ;2051 ;7040;var;0,82104; 1,45619; 0,58867; 106,82875; 16,03361; ;eval;152,06000;183,14000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.63;data;76 ;81 ;111 ;2051 ;7040;var;0,82104; 1,45619; 0,58867; 106,82875; 16,03361; ;eval;152,06000;183,14000;166,63000;1000,00000;
+test3.json hijo evaluacion 354.44;data;76 ;81 ;111 ;2051 ;7040;var;0,82104; 1,45619; 0,58867; 106,82875; 16,03361; ;eval;152,06000;183,14000;166,63000;354,44000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2148 7051
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2148 7051
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2148 7051
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2148 7051
+test0.json hijo evaluacion 149.52;data;76 ;83 ;111 ;2148 ;7051;var;0,67326; 1,19408; 0,48271; 87,59958; 13,14756; ;eval;149,52000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.02;data;76 ;83 ;111 ;2148 ;7051;var;0,67326; 1,19408; 0,48271; 87,59958; 13,14756; ;eval;149,52000;183,02000;1000,00000;1000,00000;
+test2.json hijo evaluacion 168.0;data;76 ;83 ;111 ;2148 ;7051;var;0,67326; 1,19408; 0,48271; 87,59958; 13,14756; ;eval;149,52000;183,02000;168,00000;1000,00000;
+test3.json hijo evaluacion 354.4;data;76 ;83 ;111 ;2148 ;7051;var;0,67326; 1,19408; 0,48271; 87,59958; 13,14756; ;eval;149,52000;183,02000;168,00000;354,40000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2093 7044
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2093 7044
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2093 7044
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2093 7044
+test0.json hijo evaluacion 149.43;data;76 ;83 ;111 ;2093 ;7044;var;0,55207; 0,97914; 0,39582; 71,83165; 10,78100; ;eval;149,43000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.55;data;76 ;83 ;111 ;2093 ;7044;var;0,55207; 0,97914; 0,39582; 71,83165; 10,78100; ;eval;149,43000;185,55000;1000,00000;1000,00000;
+test2.json hijo evaluacion 167.94;data;76 ;83 ;111 ;2093 ;7044;var;0,55207; 0,97914; 0,39582; 71,83165; 10,78100; ;eval;149,43000;185,55000;167,94000;1000,00000;
+test3.json hijo evaluacion 354.47;data;76 ;83 ;111 ;2093 ;7044;var;0,55207; 0,97914; 0,39582; 71,83165; 10,78100; ;eval;149,43000;185,55000;167,94000;354,47000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7030
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7030
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7030
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7030
+test0.json hijo evaluacion 149.17;data;76 ;83 ;111 ;2015 ;7030;var;0,45270; 0,80290; 0,32458; 58,90196; 8,84042; ;eval;149,17000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2015 ;7030;var;0,45270; 0,80290; 0,32458; 58,90196; 8,84042; ;eval;149,17000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2015 ;7030;var;0,45270; 0,80290; 0,32458; 58,90196; 8,84042; ;eval;149,17000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.51;data;76 ;83 ;111 ;2015 ;7030;var;0,45270; 0,80290; 0,32458; 58,90196; 8,84042; ;eval;149,17000;183,12000;166,96000;354,51000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 82 111 1993 7038
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 82 111 1993 7038
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 82 111 1993 7038
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 82 111 1993 7038
+test0.json hijo evaluacion 151.52;data;76 ;82 ;111 ;1993 ;7038;var;0,37121; 0,65838; 0,26615; 48,29960; 7,24914; ;eval;151,52000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.06;data;76 ;82 ;111 ;1993 ;7038;var;0,37121; 0,65838; 0,26615; 48,29960; 7,24914; ;eval;151,52000;183,06000;1000,00000;1000,00000;
+test2.json hijo evaluacion 165.75;data;76 ;82 ;111 ;1993 ;7038;var;0,37121; 0,65838; 0,26615; 48,29960; 7,24914; ;eval;151,52000;183,06000;165,75000;1000,00000;
+test3.json hijo evaluacion 354.48;data;76 ;82 ;111 ;1993 ;7038;var;0,37121; 0,65838; 0,26615; 48,29960; 7,24914; ;eval;151,52000;183,06000;165,75000;354,48000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 1982 7024
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 1982 7024
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 1982 7024
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 1982 7024
+test0.json hijo evaluacion 149.17;data;76 ;83 ;111 ;1982 ;7024;var;0,30439; 0,53987; 0,21824; 39,60567; 5,94430; ;eval;149,17000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;1982 ;7024;var;0,30439; 0,53987; 0,21824; 39,60567; 5,94430; ;eval;149,17000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.99;data;76 ;83 ;111 ;1982 ;7024;var;0,30439; 0,53987; 0,21824; 39,60567; 5,94430; ;eval;149,17000;183,12000;166,99000;1000,00000;
+test3.json hijo evaluacion 354.51;data;76 ;83 ;111 ;1982 ;7024;var;0,30439; 0,53987; 0,21824; 39,60567; 5,94430; ;eval;149,17000;183,12000;166,99000;354,51000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2015 7032
+test0.json hijo evaluacion 149.17;data;76 ;83 ;111 ;2015 ;7032;var;0,24960; 0,44269; 0,17896; 32,47665; 4,87432; ;eval;149,17000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2015 ;7032;var;0,24960; 0,44269; 0,17896; 32,47665; 4,87432; ;eval;149,17000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2015 ;7032;var;0,24960; 0,44269; 0,17896; 32,47665; 4,87432; ;eval;149,17000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.51;data;76 ;83 ;111 ;2015 ;7032;var;0,24960; 0,44269; 0,17896; 32,47665; 4,87432; ;eval;149,17000;183,12000;166,96000;354,51000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2007 7020
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2007 7020
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2007 7020
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2007 7020
+test0.json hijo evaluacion 149.17;data;76 ;83 ;111 ;2007 ;7020;var;0,20467; 0,36301; 0,14675; 26,63086; 3,99695; ;eval;149,17000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2007 ;7020;var;0,20467; 0,36301; 0,14675; 26,63086; 3,99695; ;eval;149,17000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2007 ;7020;var;0,20467; 0,36301; 0,14675; 26,63086; 3,99695; ;eval;149,17000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.51;data;76 ;83 ;111 ;2007 ;7020;var;0,20467; 0,36301; 0,14675; 26,63086; 3,99695; ;eval;149,17000;183,12000;166,96000;354,51000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2073 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2073 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2073 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2073 7032
+test0.json hijo evaluacion 149.43;data;76 ;83 ;111 ;2073 ;7032;var;0,16783; 0,29767; 0,12033; 21,83730; 3,27750; ;eval;149,43000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.55;data;76 ;83 ;111 ;2073 ;7032;var;0,16783; 0,29767; 0,12033; 21,83730; 3,27750; ;eval;149,43000;185,55000;1000,00000;1000,00000;
+test2.json hijo evaluacion 167.05;data;76 ;83 ;111 ;2073 ;7032;var;0,16783; 0,29767; 0,12033; 21,83730; 3,27750; ;eval;149,43000;185,55000;167,05000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2073 ;7032;var;0,16783; 0,29767; 0,12033; 21,83730; 3,27750; ;eval;149,43000;185,55000;167,05000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2027 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2027 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2027 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2027 7034
+test0.json hijo evaluacion 149.23;data;76 ;83 ;111 ;2027 ;7034;var;0,13762; 0,24409; 0,09867; 17,90659; 2,68755; ;eval;149,23000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2027 ;7034;var;0,13762; 0,24409; 0,09867; 17,90659; 2,68755; ;eval;149,23000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2027 ;7034;var;0,13762; 0,24409; 0,09867; 17,90659; 2,68755; ;eval;149,23000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2027 ;7034;var;0,13762; 0,24409; 0,09867; 17,90659; 2,68755; ;eval;149,23000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7036
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7036
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7036
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7036
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2036 ;7036;var;0,11285; 0,20015; 0,08091; 14,68340; 2,20379; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2036 ;7036;var;0,11285; 0,20015; 0,08091; 14,68340; 2,20379; ;eval;149,24000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2036 ;7036;var;0,11285; 0,20015; 0,08091; 14,68340; 2,20379; ;eval;149,24000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.47;data;76 ;83 ;111 ;2036 ;7036;var;0,11285; 0,20015; 0,08091; 14,68340; 2,20379; ;eval;149,24000;183,12000;166,96000;354,47000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2038 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2038 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2038 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2038 7034
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2038 ;7034;var;0,09254; 0,16412; 0,06635; 12,04039; 1,80711; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.55;data;76 ;83 ;111 ;2038 ;7034;var;0,09254; 0,16412; 0,06635; 12,04039; 1,80711; ;eval;149,24000;185,55000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2038 ;7034;var;0,09254; 0,16412; 0,06635; 12,04039; 1,80711; ;eval;149,24000;185,55000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2038 ;7034;var;0,09254; 0,16412; 0,06635; 12,04039; 1,80711; ;eval;149,24000;185,55000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2026 7034
+test0.json hijo evaluacion 149.23;data;76 ;83 ;111 ;2026 ;7034;var;0,07588; 0,13458; 0,05441; 9,87312; 1,48183; ;eval;149,23000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2026 ;7034;var;0,07588; 0,13458; 0,05441; 9,87312; 1,48183; ;eval;149,23000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2026 ;7034;var;0,07588; 0,13458; 0,05441; 9,87312; 1,48183; ;eval;149,23000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2026 ;7034;var;0,07588; 0,13458; 0,05441; 9,87312; 1,48183; ;eval;149,23000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+test0.json hijo evaluacion 149.22;data;76 ;83 ;111 ;2033 ;7033;var;0,06222; 0,11036; 0,04461; 8,09596; 1,21510; ;eval;149,22000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2033 ;7033;var;0,06222; 0,11036; 0,04461; 8,09596; 1,21510; ;eval;149,22000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2033 ;7033;var;0,06222; 0,11036; 0,04461; 8,09596; 1,21510; ;eval;149,22000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2033 ;7033;var;0,06222; 0,11036; 0,04461; 8,09596; 1,21510; ;eval;149,22000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2039 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2039 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2039 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2039 7033
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2039 ;7033;var;0,05102; 0,09049; 0,03658; 6,63869; 0,99638; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.55;data;76 ;83 ;111 ;2039 ;7033;var;0,05102; 0,09049; 0,03658; 6,63869; 0,99638; ;eval;149,24000;185,55000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2039 ;7033;var;0,05102; 0,09049; 0,03658; 6,63869; 0,99638; ;eval;149,24000;185,55000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2039 ;7033;var;0,05102; 0,09049; 0,03658; 6,63869; 0,99638; ;eval;149,24000;185,55000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7034
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7034
+test0.json hijo evaluacion 149.22;data;76 ;83 ;111 ;2033 ;7034;var;0,04184; 0,07420; 0,03000; 5,44372; 0,81703; ;eval;149,22000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2033 ;7034;var;0,04184; 0,07420; 0,03000; 5,44372; 0,81703; ;eval;149,22000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2033 ;7034;var;0,04184; 0,07420; 0,03000; 5,44372; 0,81703; ;eval;149,22000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2033 ;7034;var;0,04184; 0,07420; 0,03000; 5,44372; 0,81703; ;eval;149,22000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7032
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7032
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2037 ;7032;var;0,03431; 0,06085; 0,02460; 4,46385; 0,66997; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.55;data;76 ;83 ;111 ;2037 ;7032;var;0,03431; 0,06085; 0,02460; 4,46385; 0,66997; ;eval;149,24000;185,55000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2037 ;7032;var;0,03431; 0,06085; 0,02460; 4,46385; 0,66997; ;eval;149,24000;185,55000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2037 ;7032;var;0,03431; 0,06085; 0,02460; 4,46385; 0,66997; ;eval;149,24000;185,55000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2037 7033
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2037 ;7033;var;0,02813; 0,04989; 0,02017; 3,66036; 0,54937; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.55;data;76 ;83 ;111 ;2037 ;7033;var;0,02813; 0,04989; 0,02017; 3,66036; 0,54937; ;eval;149,24000;185,55000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2037 ;7033;var;0,02813; 0,04989; 0,02017; 3,66036; 0,54937; ;eval;149,24000;185,55000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2037 ;7033;var;0,02813; 0,04989; 0,02017; 3,66036; 0,54937; ;eval;149,24000;185,55000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2041 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2041 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2041 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2041 7033
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2041 ;7033;var;0,02307; 0,04091; 0,01654; 3,00149; 0,45049; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 185.55;data;76 ;83 ;111 ;2041 ;7033;var;0,02307; 0,04091; 0,01654; 3,00149; 0,45049; ;eval;149,24000;185,55000;1000,00000;1000,00000;
+test2.json hijo evaluacion 167.05;data;76 ;83 ;111 ;2041 ;7033;var;0,02307; 0,04091; 0,01654; 3,00149; 0,45049; ;eval;149,24000;185,55000;167,05000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2041 ;7033;var;0,02307; 0,04091; 0,01654; 3,00149; 0,45049; ;eval;149,24000;185,55000;167,05000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2036 ;7033;var;0,01892; 0,03355; 0,01356; 2,46123; 0,36940; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2036 ;7033;var;0,01892; 0,03355; 0,01356; 2,46123; 0,36940; ;eval;149,24000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2036 ;7033;var;0,01892; 0,03355; 0,01356; 2,46123; 0,36940; ;eval;149,24000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2036 ;7033;var;0,01892; 0,03355; 0,01356; 2,46123; 0,36940; ;eval;149,24000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2036 7033
+test0.json hijo evaluacion 149.24;data;76 ;83 ;111 ;2036 ;7033;var;0,01551; 0,02751; 0,01112; 2,01820; 0,30291; ;eval;149,24000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2036 ;7033;var;0,01551; 0,02751; 0,01112; 2,01820; 0,30291; ;eval;149,24000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2036 ;7033;var;0,01551; 0,02751; 0,01112; 2,01820; 0,30291; ;eval;149,24000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2036 ;7033;var;0,01551; 0,02751; 0,01112; 2,01820; 0,30291; ;eval;149,24000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+test0.json hijo evaluacion 149.23;data;76 ;83 ;111 ;2032 ;7033;var;0,01272; 0,02256; 0,00912; 1,65493; 0,24838; ;eval;149,23000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2032 ;7033;var;0,01272; 0,02256; 0,00912; 1,65493; 0,24838; ;eval;149,23000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2032 ;7033;var;0,01272; 0,02256; 0,00912; 1,65493; 0,24838; ;eval;149,23000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2032 ;7033;var;0,01272; 0,02256; 0,00912; 1,65493; 0,24838; ;eval;149,23000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2033 7033
+test0.json hijo evaluacion 149.22;data;76 ;83 ;111 ;2033 ;7033;var;0,01043; 0,01850; 0,00748; 1,35704; 0,20367; ;eval;149,22000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2033 ;7033;var;0,01043; 0,01850; 0,00748; 1,35704; 0,20367; ;eval;149,22000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2033 ;7033;var;0,01043; 0,01850; 0,00748; 1,35704; 0,20367; ;eval;149,22000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2033 ;7033;var;0,01043; 0,01850; 0,00748; 1,35704; 0,20367; ;eval;149,22000;183,12000;166,96000;354,18000;
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+java -cp "C:\Users\damum\OneDrive - Universidad Carlos III de Madrid\Universidad\4º\Algoritmos genericos y evolutivos\Practica final\AGERacer\target\test-classes" ver2_0.AgentFinal 76 83 111 2032 7033
+test0.json hijo evaluacion 149.23;data;76 ;83 ;111 ;2032 ;7033;var;0,00855; 0,01517; 0,00613; 1,11277; 0,16701; ;eval;149,23000;1000,00000;1000,00000;1000,00000;
+test1.json hijo evaluacion 183.12;data;76 ;83 ;111 ;2032 ;7033;var;0,00855; 0,01517; 0,00613; 1,11277; 0,16701; ;eval;149,23000;183,12000;1000,00000;1000,00000;
+test2.json hijo evaluacion 166.96;data;76 ;83 ;111 ;2032 ;7033;var;0,00855; 0,01517; 0,00613; 1,11277; 0,16701; ;eval;149,23000;183,12000;166,96000;1000,00000;
+test3.json hijo evaluacion 354.18;data;76 ;83 ;111 ;2032 ;7033;var;0,00855; 0,01517; 0,00613; 1,11277; 0,16701; ;eval;149,23000;183,12000;166,96000;354,18000;
